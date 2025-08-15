@@ -1,0 +1,22 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+out/
+
+# Archivos de usuario de VS Code / Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración sensible
+appsettings.Development.json
